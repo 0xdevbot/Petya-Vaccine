@@ -30,8 +30,8 @@ goto :END
 goto :CHECK
 :END
 ECHO.
-ECHO	Petya_Vaccine.bat by @DevinMFWallace
 ECHO	Petya Vaccine found by @0xAmit
+ECHO	Petya_Vaccine.bat by @DevinMFWallace
 ECHO.
 PAUSE
 CLS
